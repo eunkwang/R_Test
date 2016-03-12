@@ -3,3 +3,7 @@ x <- function(){
 }
 
 x()
+
+y <- function(){
+  print("hi. github")
+}
